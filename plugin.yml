@@ -1,0 +1,8 @@
+name: simplerankup
+main: Mateo\main
+api: 2.0.0
+version: 1
+commands:
+  sru:
+    description: sru general commands
+    usage: "/sru"
