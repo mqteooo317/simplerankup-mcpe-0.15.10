@@ -1,0 +1,13 @@
+ranks:
+  usuario:
+    next: I
+    default: true
+  I:
+    next: II
+    default: false
+  II:
+    next: III
+    default: false
+  III:
+    next: null
+    default: false
